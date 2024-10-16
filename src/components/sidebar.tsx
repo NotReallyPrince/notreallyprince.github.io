@@ -7,6 +7,7 @@ import { siteConfig } from "@/config/site";
 import { useToast } from "./ui/use-toast";
 
 const AboutSidebar = () => {
+  
   return (
     <aside className="order-none mb-12 flex flex-col gap-y-8 lg:order-1">
       <div className="sticky top-10 duration-700 animate-in zoom-in-50">
