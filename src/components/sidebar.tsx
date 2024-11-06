@@ -4,7 +4,6 @@ import Image from "next/image";
 import { Download, Link, Mail } from "lucide-react";
 
 import { siteConfig } from "@/config/site";
-import { useToast } from "./ui/use-toast";
 
 const AboutSidebar = () => {
   return (
@@ -12,7 +11,7 @@ const AboutSidebar = () => {
       <div className="sticky top-10 duration-700 animate-in zoom-in-50">
         <div className="mb-4 w-60 overflow-hidden rounded-full border border-gray-600 sm:w-80 md:w-full">
           <Image
-            src="https://envs.sh/W_r.png"
+            src="/images/avatar.png"
             width={400}
             height={400}
             quality={100}
