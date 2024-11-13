@@ -27,7 +27,7 @@ const AboutSidebar = () => {
             <div
               onClick={() =>
                 window.open(
-                  "https://drive.google.com/file/d/1imVSXBDjpA7yvKlwtcyu-cjtvKJqb5d-/view?usp=drive_link",
+                  "https://drive.google.com/file/d/1hMVQEzgRPNwtk-nzsHqZHKkqHNPiTW8M/view",
                   "_blank"
                 )
               }
@@ -39,7 +39,7 @@ const AboutSidebar = () => {
             <div
               onClick={() =>
                 window.open(
-                  "https://drive.google.com/u/0/uc?id=1imVSXBDjpA7yvKlwtcyu-cjtvKJqb5d-&export=download"
+                  "https://drive.google.com/uc?export=download&id=1hMVQEzgRPNwtk-nzsHqZHKkqHNPiTW8M"
                 )
               }
               className="flex basis-[15%] items-center justify-center rounded-md border bg-secondary/50 p-3 text-center text-lg hover:underline md:basis-[10%]"
