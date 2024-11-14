@@ -10,7 +10,7 @@ export const siteConfig = {
     name: "Prince Prajapati",
     avatar: "/images/avatar.png",
     bio: "Fullstack Developer",
-    mail: "prajapatiprince021@gmail.com",
+    mail: "princeprajapati.dev@gmail.com",
     description:
       "Seasoned software engineer especially in frontend side, with a passion for creating pixel-perfect web experiences.",
   },
@@ -18,20 +18,14 @@ export const siteConfig = {
   links: {
     github: {
       title: "Github",
-      href: "https://github.com/rajput-hemant",
+      href: "https://github.com/notreallyprince",
       icon: Icons.Github,
     },
 
     linkedin: {
       title: "Linkedin",
-      href: "https://www.linkedin.com/in/rajput-hemant",
+      href: "https://www.linkedin.com/in/princeprajapati30",
       icon: Icons.LinkedIn,
-    },
-
-    twitter: {
-      title: "Twitter",
-      href: "https://twitter.com/rajput_hemant01",
-      icon: Icons.Twitter,
     },
   },
 };

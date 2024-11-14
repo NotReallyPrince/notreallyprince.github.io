@@ -15,7 +15,7 @@ const AboutSidebar = () => {
             width={400}
             height={400}
             quality={100}
-            alt="Hemant Rajput"
+            alt="Prince Prajapati"
             priority
             draggable="false"
             className="scale-105 object-cover duration-300 hover:scale-110"
