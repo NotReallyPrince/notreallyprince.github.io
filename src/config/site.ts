@@ -27,5 +27,10 @@ export const siteConfig = {
       href: "https://www.linkedin.com/in/princeprajapati30",
       icon: Icons.LinkedIn,
     },
+    twitter: {
+      title: "Twitter",
+      href: "https://twitter.com/rajput_hemant01",
+      icon: Icons.Twitter,
+    },
   },
 };
